@@ -1,0 +1,13 @@
+{
+    "id": "github-syncmate",
+    "name": "GitHub SyncMate",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Cross-platform sync for Obsidian notes with GitHub (Android, iOS, Wndows, Mac, Linux).",
+    "author": "cybawizz (Andrew R.S.)",
+    "authorUrl": "https://github.com/cybawizz",
+    "fundingUrl": {
+        "Buy Me a Coffee": "https://www.buymeacoffee.com/cybawizz"
+    },
+    "isDesktopOnly": false
+}
